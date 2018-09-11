@@ -8,3 +8,5 @@ Run `yarn start` to start webpack dev server
 3. Click "Hide Froala" to trigger an unmount.  
 
 Before fully unmounting, the script tag is executed.
+
+There is a componentWillUnmount function inside FroalaWrapper.js that I added to manually clear the value insdie the editor, but this is not an ideal solution.
