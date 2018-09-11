@@ -9,4 +9,4 @@
 
 Before fully unmounting, the script tag is executed.
 
-There is a componentWillUnmount function inside FroalaWrapper.js that I added to manually clear the value inside the editor, but this is not an ideal solution.
+There is a componentWillUnmount function inside FroalaWrapper.js (currently commented out) that I added to manually clear the value inside the editor, but this is not an ideal solution.
