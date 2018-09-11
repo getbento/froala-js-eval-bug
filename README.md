@@ -1,6 +1,6 @@
 # froala-js-eval-bug
-Run `yarn` to install dependencies
-Run `yarn start` to start webpack dev server
+*Run `yarn` to install dependencies.
+*Run `yarn start` to start webpack dev server.
 
 ## Steps To Reproduce:
 1. Open code editor view within Froala Editor.  
